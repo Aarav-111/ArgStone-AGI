@@ -109,6 +109,12 @@ The model below will score >90% in HLE (humanity's Last Exam)
 **Version 0.1.12:**
 Score = {>90%}
 
+**Version 0.1.12-go:**
+Score = {>90%}
+
+**Version 0.1.12-pulse:**
+Score = {>90%}
+
 **Version 0.1.12-plus:**
 Score = {>90%}
 
