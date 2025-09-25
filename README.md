@@ -1,5 +1,5 @@
 # ArgStone-AGI
-# AI Super Reasoning Engine
+AI Super Reasoning Engine
 
 
 # Argstone Version 0.9.7 Readme.md file
