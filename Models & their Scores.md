@@ -25,7 +25,7 @@ Score = 64.98
 Score = 69.11
 
 **Version 0.9.8-Plus:**
-Score =
+Score = 71.01
 
 **Version 0.9.9:**
 Score =
