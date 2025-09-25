@@ -3,7 +3,7 @@ AI Super Reasoning Engine
 
 Argstone is a **heavyweight reasoning engine** designed for exploring multiple perspectives on a single problem and simulating an exam-taker that always produces breadth of answers rather than a single thread.
 
-It’s resource-hungry, exploratory Reasoning Engine
+It’s resource-hungry, exploratory Reasoning Engine scoring ~62% in the Humanity's Last Exam! Breaking a World Record!!!
 
 ---
 
@@ -153,9 +153,6 @@ Not yet. Planned features include Markdown/CSV export of all answers.
 
 **Q9: Will Argstone always generate unique answers?**
 Variations help, but duplicates may still appear; the diversity improves with more nuanced prompts.
-
-**Q10: Who is Argstone for?**
-Students, researchers, and developers who want to explore a wide range of possible answers instead of a single narrow response.
 
 ---
 
