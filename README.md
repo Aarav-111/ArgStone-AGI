@@ -1,9 +1,6 @@
 # ArgStone-AGI
 AI Super Reasoning Engine
 
-
-# Argstone Version 0.9.7 Readme.md file
-
 Argstone is a **heavyweight reasoning engine** designed for exploring multiple perspectives on a single problem and simulating an exam-taker that always produces breadth of answers rather than a single thread.
 
 It’s resource-hungry, exploratory Reasoning Engine
