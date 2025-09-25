@@ -122,4 +122,7 @@ Score = {>90%}
 Score = {>90%}
 
 **Version 0.1.12-ultra:**
+Score = {>92%}
+
+**Verion 0.1.12-heavy**
 Score = {>95%}
