@@ -130,5 +130,5 @@ Score = {Will Score >90%}
 **Version 1.1.2-ultra:**
 Score = {Will Score >92%}
 
-**Verion 0.1.12-heavy**
-Score = {>95%}
+**Verion 1.1.2-heavy**
+Score = {>92%}
