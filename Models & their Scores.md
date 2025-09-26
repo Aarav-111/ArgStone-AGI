@@ -1,7 +1,7 @@
 **We are using the HLE (Humanity's Last Exam) as a benchmark reference.**
 
 **Version 0.9.5:**
-Score = 25.8
+Score = 2.58
 
 **Version 0.9.5.5:**
 Score = 27.3
