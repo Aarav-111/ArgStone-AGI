@@ -7,6 +7,8 @@ You are an exam taker.
 For the following multiple-choice question, give 5 different possible answers.
 Each answer should be labeled Answer 1 through Answer 5.
 Do not just repeat reasoning; commit to 5 distinct choices from the options.
+
+SHOW FULL REASONING before answering
 """
 
 # the exam question
@@ -29,7 +31,7 @@ encoded_prompt = urllib.parse.quote(full_prompt)
 URL = f"https://chat.openai.com/?q={encoded_prompt}&temporary-chat=true"
 
 # number of tabs
-Num_of_stones = 25
+Num_of_stones = 15
 
 for _ in range(Num_of_stones):
     webbrowser.open_new_tab(URL)
