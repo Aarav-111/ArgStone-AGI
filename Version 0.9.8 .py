@@ -14,7 +14,7 @@ For the following multiple-choice question, give {num_of_answers} DIFFERENT poss
 Each answer should be labeled Answer 1 through Answer {num_of_answers}.
 Do not just repeat reasoning; commit to {num_of_answers} distinct choices from the options.
 
-SHOW FULL REASONING before finally answering
+SHOW FULL & Super Detailed working before finally answering
 """
 
 question = """
