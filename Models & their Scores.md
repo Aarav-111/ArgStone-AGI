@@ -22,19 +22,19 @@ Score = 62.9
 Score = 64.98
 
 **Version 0.9.8:**
-Score = 69.11
+Score = 65.11
 
 **Version 0.9.8-Plus:**
-Score = 71.01
+Score = 67.01
 
 **Version 0.9.9:**
-Score =
+Score = 70.09
 
 **Version 0.9.9-Pro:**
-Score =
+Score = 73.1
 
 **Version 0.9.9-Max:**
-Score =
+Score = 74.00
 
 **Version 1.0.0:**
 Score =
