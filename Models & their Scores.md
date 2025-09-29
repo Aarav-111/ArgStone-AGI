@@ -36,7 +36,13 @@ Score = 73.1
 **Version 0.9.9-Max:**
 Score = 74.00
 
+**Version 1.0.0-preview:**
+Score =
+
 **Version 1.0.0:**
+Score =
+
+**Version 1.0.0-heavy:**
 Score =
 
 **Version 1.0.1:**
