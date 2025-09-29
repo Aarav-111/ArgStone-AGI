@@ -40,7 +40,7 @@ Score = 74.00
 Score = 79.09
 
 **Version 1.0.0:**
-Score =
+Score = 81.09%
 
 **Version 1.0.0-heavy:**
 Score =
