@@ -43,46 +43,46 @@ Score = 79.09
 Score =
 
 **Version 1.0.0-heavy:**
-Score = 82.11
+Score =
 
 **Version 1.0.1:**
-Score = 82.9
+Score =
 
 **Version 1.0.2:**
-Score = 82.95
+Score =
 
 **Version 1.0.2-altitude:**
-Score = 82.99
+Score =
 
 **Version 1.0.5:**
-Score = 83
+Score =
 
 **Version 1.0.5.6-v:**
-Score = 83.11
+Score =
 
 **Version 1.0.6:**
-Score = 83.4
+Score =
 
 **Version 1.0.6-pro:**
-Score = 83.9
+Score =
 
 **Version 1.0.6-v:**
-Score = 84.21
+Score =
 
 **Version 1.0.7:**
-Score = 84.22
+Score =
 
 **Version 1.0.7.5:**
-Score = 84.25
+Score =
 
 **Version 1.0.7.6:**
-Score = 84.9
+Score =
 
 **Version 1.0.8:**
-Score = 85.00
+Score =
 
 **Version 1.0.9:**
-Score = 85.32
+Score =
 
 **Version 1.1.0:**
 Score =
