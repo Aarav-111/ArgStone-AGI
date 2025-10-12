@@ -45,29 +45,20 @@ Score = 81.09%
 **Version 1.0.0-heavy:**
 Score =
 
-**Version 1.0.1:**
-Score =
 
-**Version 1.0.2:**
-Score =
+========== Individual Models (1.0.6) ============
 
-**Version 1.0.2-altitude:**
-Score =
+**Version 1.0.6-logic & math:**
 
-**Version 1.0.5:**
-Score =
+Score = 79% (Logic & Math Questions)
 
-**Version 1.0.5.6-v:**
-Score =
+**Version 1.0.6-other(s):**
+Score = 82% (Non-logic or math Questions)
 
-**Version 1.0.6:**
-Score =
+**Version 1.0.6-e:**
+Score = 81.9%
 
-**Version 1.0.6-pro:**
-Score =
-
-**Version 1.0.6-v:**
-Score =
+============ Newer models ===========
 
 **Version 1.0.7:**
 Score =
