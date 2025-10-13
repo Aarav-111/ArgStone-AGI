@@ -1,4 +1,4 @@
-#**We are using the HLE (Humanity's Last Exam) as a benchmark reference.**
+**We are using the HLE (Humanity's Last Exam) as a benchmark reference.**
 
 ============== legecy models ==================
 
