@@ -27,3 +27,4 @@ Num_of_stones = 10
 
 for _ in range(Num_of_stones):
     webbrowser.open_new_tab(URL)
+    
