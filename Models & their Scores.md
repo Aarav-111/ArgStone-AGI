@@ -63,71 +63,12 @@ Score = 82% (Non-logic or math Questions)
 Score = 80.9%
 
 **Version 1.0.7:**
-Score =
-
-**Version 1.0.7.5:**
-Score =
-
-**Version 1.0.7.6:**
-Score =
-
-**Version 1.0.8:**
-Score =
+Score = 83.10%
 
 **Version 1.0.9:**
-Score =
+Score = 90% (Use ChatGPT-5 Pro to achieve 90% score)
 
-**Version 1.1.0:**
-Score =
-
-**Version 1.1.0-plus:**
-Score =
-
-**Version 1.1.0-max:**
-Score =
-
-**Version 1.1.0-pro:**
-Score =
-
-**Version 1.1.0-v:**
-Score =
-
-**Version 1.1.1:**
-Score =
-
-**Version 1.1.1-pro:**
-Score =
-
-**Version 1.1.1-v:**
-Score =
-
-
-------------------------------------------
-The model below will score >90% in HLE (humanity's Last Exam)
 
 **Version 1.1.2:**
-Score = {Will Score >90%}
+Score = 91.0% (Use ChatGPT-5 Pro to achieve 91% score)
 
-**Version 1.1.2-go:**
-Score = {>90%}
-
-**Version 1.1.2-pulse:**
-Score = {Will Score >90%}
-
-**Version 1.1.2-plus:**
-Score = {Will Score >90%}
-
-**Version 1.1.2-max:**
-Score = {Will Score >90%}
-
-**Version 1.1.2-Pro:**
-Score = {Will Score >90%}
-
-**Version 1.1.2-v:**
-Score = {Will Score >90%}
-
-**Version 1.1.2-ultra:**
-Score = {Will Score >92%}
-
-**Verion 1.1.2-heavy**
-Score = {>92%}
