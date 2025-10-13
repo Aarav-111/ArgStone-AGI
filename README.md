@@ -5,7 +5,7 @@ Argstone is a **heavyweight reasoning engine** designed for exploring multiple p
 
 It’s resource-hungry, exploratory Reasoning Engine scoring 80.9% in the Humanity's Last Exam! Breaking a World Record!!!
 
-[View Humanity's Last Exam paper]((https://huggingface.co/datasets/cais/hle/viewer/default/test?views%5B%5D=test))
+[View Humanity's Last Exam paper](https://huggingface.co/datasets/cais/hle/viewer/default/test?views%5B%5D=test)
 
 ---
 
