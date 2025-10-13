@@ -1,5 +1,6 @@
-**We are using the HLE (Humanity's Last Exam) as a benchmark reference.**
+##**We are using the HLE (Humanity's Last Exam) as a benchmark reference.**
 
+============== legecy models ==================
 **Version 0.9.5:**
 Score = 2.58
 
@@ -46,7 +47,7 @@ Score = 81.09%
 Score =
 
 
-========== Individual Models (1.0.6) ============
+========== Individual Specialised Models (1.0.6) ============
 
 **Version 1.0.6-logic & math:**
 
@@ -55,10 +56,10 @@ Score = 79% (Logic & Math Questions)
 **Version 1.0.6-other(s):**
 Score = 82% (Non-logic or math Questions)
 
-**Version 1.0.6-e:**
-Score = 81.9%
-
 ============ Newer models ===========
+
+**Version 1.0.6-e:**
+Score = 80.9%
 
 **Version 1.0.7:**
 Score =
