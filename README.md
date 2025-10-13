@@ -3,7 +3,9 @@ AI Super Reasoning Engine Developed by Prolabs Robotics
 
 Argstone is a **heavyweight reasoning engine** designed for exploring multiple perspectives on a single problem and simulating an exam-taker that always produces breadth of answers rather than a single thread.
 
-It’s resource-hungry, exploratory Reasoning Engine scoring ~62% in the Humanity's Last Exam! Breaking a World Record!!!
+It’s resource-hungry, exploratory Reasoning Engine scoring 80.9% in the Humanity's Last Exam! Breaking a World Record!!!
+
+[View Humanity's Last Exam paper]((https://huggingface.co/datasets/cais/hle/viewer/default/test?views%5B%5D=test))
 
 ---
 
