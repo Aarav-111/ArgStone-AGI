@@ -72,7 +72,7 @@ This structured divergence ensures ArgStone achieves computational diversity bef
 ## Usage Example (API)
 
 ```python
-from argstone import ArgStone
+from ProlabsRobotics import ArgStone, Version 1.0.6
 
 engine = ArgStone(kernels=20)
 response = engine.reason("Simulate multi-agent consensus on light behavior near a black hole.")
@@ -95,9 +95,6 @@ print(response)
 | Benchmark Name               | Version | Score (%) |
 | ---------------------------- | ------- | --------- |
 | Humanity’s Last Exam         | 1.0.6-e | 80.9      |
-| Cognitive Breadth Test (CBT) | 1.0.6-e | 78.3      |
-| Reasoning Integrity Index    | 1.0.6-e | 84.5      |
-| Logical Precision Test       | 1.0.6-e | 91.1      |
 
 ---
 
@@ -105,10 +102,9 @@ print(response)
 
 | Version | Target Score | Planned Feature                       |
 | ------- | ------------ | ------------------------------------- |
-| 1.0.7   | 83%          | Adaptive kernel prioritization        |
-| 1.0.8   | 85%          | Quantum-logic reasoning kernel        |
+| 1.0.7   | 86%          | Adaptive kernel prioritization        |
 | 1.0.9   | 88%          | Multimodal inference (vision + text)  |
-| 1.1.0   | 90%          | AGI-grade synthetic reasoning release |
+| 1.1.2   | 90%          | AGI-grade synthetic reasoning release |
 
 ---
 
