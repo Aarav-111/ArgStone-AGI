@@ -113,6 +113,7 @@ print(response)
 * "M" Type models - models for math
 * "e" Type models - All-in-one models (function calling tool available)
 * "A" Type models - models for other tasks (eg: Facts, philosophy, etc.)
+* "A" Type models - models for multiple choice questions
 
 ---
 
