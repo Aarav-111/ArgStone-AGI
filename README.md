@@ -7,6 +7,9 @@ It’s resource-hungry, exploratory Reasoning Engine scoring 80.9% in the Humani
 
 [View Humanity's Last Exam paper](https://huggingface.co/datasets/cais/hle/viewer/default/test?views%5B%5D=test)
 
+<img width="1135" height="558" alt="image" src="https://github.com/user-attachments/assets/dbc79b75-679f-4421-93b8-1ed8bcf3e573" />
+
+
 ---
 
 ## Table of Contents
